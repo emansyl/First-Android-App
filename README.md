@@ -5,7 +5,7 @@ Simple Android App with buttons and user input.
 
 ### App Walk-though
 
-<img src="https://imgur.com/Z5kFi93" width=200><br>
+<img src="https://imgur.com/Z5kFi93.gif" width=200><br>
 
 
 ### Required User Stories
